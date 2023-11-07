@@ -1,9 +1,7 @@
 import discord
 import asyncio
-import time
 import datetime
 import os
-from discord.ext import tasks
 from dotenv import load_dotenv
 
 load_dotenv(dotenv_path="../.env")
